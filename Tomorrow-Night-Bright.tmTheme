@@ -88,6 +88,45 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function (definition)</string>
+			<key>scope</key>
+			<string>entity.name.function, keyword.other.name-of-parameter.objc</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#2A2A2A</string>
+				<key>foreground</key>
+				<string>#DEDEDE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class (definition)</string>
+			<key>scope</key>
+			<string>entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#2A2A2A</string>
+				<key>foreground</key>
+				<string>#DEDEDE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Namespace (definition)</string>
+			<key>scope</key>
+			<string>entity.name.section.namespace</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#2A2A2A</string>
+				<key>foreground</key>
+				<string>#DEDEDE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String, Symbols, Inherited Class, Markup Heading</string>
 			<key>scope</key>
 			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
