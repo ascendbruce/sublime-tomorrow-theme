@@ -1,10 +1,23 @@
-# TextMate Tomorrow Theme
-The TextMate version of [Tomorrow Theme](https://github.com/ChrisKempson/Tomorrow-Theme).
+This is a modified version of [Sublime Tomorrow Color Scheme](https://github.com/theymaybecoders/sublime-tomorrow-theme).
+
+Modifications are:
+
+* Only left Night-Bright: black background, high contrast
+* Added class/methods name color highlight (inspired by Nil color scheme)
+
+Compactiable with Sublime Text 2 and 3. This color scheme also support for GitGutter icon color.
+
+# Install
+
+If you didn't install Package Control yet. Please install it first.
+
+* `cmd+shift+p` and hit `Package Control: Add Repostory`
+* Add `https://github.com/ascendbruce/sublime-tomorrow-theme`
+* `cmd+shift+p` and hit `Package Control: Install Repostory`, search and install `sublime-tomorrow-theme`
+* Select `Preference > Color Schema > sublime-tomorrow-theme > Tomorrow-Night-Bright` to active it.
 
 ## Take a look!
-Tomorrow theme variations in shown in TextMate with Ruby code.  
-![Ruby Code in Tomorrow Night](https://github.com/ChrisKempson/TextMate-Tomorrow-Theme/raw/master/Images/Tomorrow-Night.png)
-![Ruby Code in Tomorrow](https://github.com/ChrisKempson/TextMate-Tomorrow-Theme/raw/master/Images/Tomorrow.png)
-![Ruby Code in Tomorrow Night Eighties](https://github.com/ChrisKempson/TextMate-Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Eighties.png)
-![Ruby Code in Tomorrow Night Blue](https://github.com/ChrisKempson/TextMate-Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Blue.png)
-![Ruby Code in Tomorrow Night Bright](https://github.com/ChrisKempson/TextMate-Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Bright.png)
+
+![](https://lh5.googleusercontent.com/-RLJsf3pqjMw/Uxr1e0DcunI/AAAAAAAABss/IyCjptmYjUQ/w614-h511-no/tomorrow_bruce_modified.png)
+
+(sample code is from [forem](https://github.com/radar/forem) project)
